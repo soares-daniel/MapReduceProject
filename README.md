@@ -154,7 +154,7 @@ Contribution
 
 The implementation of the [KeyValueStore](src/KeyValueStore.cpp) as well as [MapReduce](src/MapReduce.cpp) was done by Thomas Rosa Da Silva (0180981748).
 
-The implementation of the [Server](src/mapreduce_server.cpp) and the [State Machine](src/mr_state_machine.cpp) as done by Daniel Soares Vieira (0211348824).
+The implementation of the [Server](src/mapreduce_server.cpp) and the [State Machine](src/mr_state_machine.cpp) was done by Daniel Soares (0211348824).
 
 
 Issues
